@@ -1,87 +1,69 @@
-# 👋 Hi, I’m Abrar Mahmud Hasan
+# 👋 Hi, I'm Abrar Mahmud Hasan
 
-**🌌 Passionate Developer | Full-Stack Web • ML/AI • Game Dev • Data Enthusiast**
-
-Welcome to my GitHub! I’m a multidisciplinary developer from **Bangladesh**, building applications across **the web, machine learning, data science, and games**. I enjoy converting creative ideas into real, usable software — from portfolio sites to predictive models and interactive games.
-
-📬 **Let’s connect:**  
-🔗 Website: https://alchemistreturns.github.io/portfolio-site/  
-💼 LinkedIn: https://www.linkedin.com/in/abrar-mahmud-hasan-75a630222  
-📍 Bangladesh  
+I am a **Computer Science student** with a strong problem-solving mindset and hands-on experience in developing **AI-powered full-stack applications**. I have contributed to production-grade ERP and web systems and am currently transitioning toward **AI engineering** with a solid foundation in Python, machine learning, and real-world software development.
 
 ---
 
-## 🚀 What I Build
+### 🚀 Technical Skills
 
-I like hands-on development — building useful tools and learning through practice. My key areas include:
-
-### 🧠 Web & Tools
-- Responsive front-end projects and dashboards using HTML, CSS, JavaScript, and TypeScript  
-- Full-stack backend services with Java, Spring Boot, and REST APIs  
-
-### 🤖 Machine Learning & AI
-- Predictive models and analytics using Python  
-- Jupyter Notebook–based ML workflows and experiments  
-
-### 🎮 Games & Interactive Apps
-- JavaFX-based games and desktop applications  
-- C++ games using SFML for learning and experimentation  
-
-### 📊 Data Science
-- Data analysis, clustering, outlier detection, and visualization projects  
+* **Languages:** Java, Python, C#, C++, JavaScript, SQL, HTML/CSS
+* **Frameworks & Tools:** React, React-Native, Next.JS, Spring Boot, Django, MongoDB, Rest API, Git, Docker, Firebase
+* **Data Science & ML:** Supervised Learning (Linear/Logistic Regression, Decision Trees, k-NN, SVM), Unsupervised Learning (k-Means, Hierarchical Clustering)
+* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Featured Projects
 
-### 🌐 Portfolio Website
-A personal portfolio showcasing my projects and background, built with clean and responsive HTML/CSS.
-
-### 📈 ML & AI Projects
-- Agriculture and prediction-focused ML projects  
-- Model training, evaluation, and visualization using Python and scikit-learn  
-
-### 📦 Software & Backend Systems
-- Spring Boot backend projects (eCommerce, Book management, REST services)  
-
-### 🕹️ Games & Interactive Apps
-- Classic games like Battleship  
-- 2D shooters and logic-based games built with JavaFX and C++  
+* **CurioKids (React Native + Node + Firebase + AI)**
+    * Built an AI-driven learning app for kids with personalized puzzles and gamification.
+    * Implemented real-time progress tracking using Firebase Authentication and Firestore.
+* **HealthX (React + Node + Firebase + Gemini)**
+    * Hackathon-winning AI-powered application bridging the medical support gap in rural regions of Bangladesh.
+* **Ecommerce Backend (Spring Boot + SQL)**
+    * Developed a secure backend with JWT-based authentication and RESTful APIs.
+    * Utilized a layered architecture with input validation.
+* **Predictive Modeling for Agriculture (Python & Scikit-learn)**
+    * Developed a supervised ML model to identify the most predictive soil attributes for crop-type classification.
 
 ---
 
-## 🛠️ Technologies I Use
+### 💼 Professional Experience
 
-| Category        | Tech Stack |
-|-----------------|-----------|
-| Web Development | HTML, CSS, JavaScript, TypeScript |
-| Backend         | Java, Spring Boot, Node.js |
-| ML / AI         | Python, Pandas, Scikit-Learn |
-| Game Dev        | JavaFX, C++, SFML |
-| Data Science    | Jupyter, NumPy, Matplotlib |
+**Junior Software Engineer | Shahrish Engineering & Construction Limited**
+*December 2024 – September 2025*
+* Designed production-grade web and ERP solutions using React, Tailwind CSS, and Django.
+* Developed internal supply-chain modules that reduced manual data handling by 90%.
 
 ---
 
-## 🧠 Learning & Growth
+### 🎓 Education
 
-I believe in continuous learning and improvement. I’m currently exploring:
-- Advanced **Machine Learning** and **AI pipelines**
-- Scalable **Full-Stack architectures**
-- Real-time and interactive **AI-powered applications**
-
----
-
-## 📬 Get In Touch
-
-I’m always open to collaboration, internships, research opportunities, and interesting discussions.
-
-✉️ Email: *abrarhasan2003@gmail.com*  
-💼 LinkedIn: https://www.linkedin.com/in/abrar-mahmud-hasan-75a630222  
+* **B.Sc. in Computer Science & Engineering** | Islamic University of Technology
+    * CGPA: 3.80/4.00 | Expected Graduation: August 2027
+* **Higher Secondary Certificate** | Notre Dame College, Dhaka
+    * GPA: 5.00/5.00
 
 ---
 
-## ⭐ If You Like My Work
+### 🏆 Awards & Achievements
 
-Consider giving a ⭐ to any repository you find useful — it really motivates me to keep building and sharing!
+* **1st Runner-up:** Future Builders 2025 AI Driven Cognitive Innovation Hackathon
+* **Finalist:** Top 7 out of 116 Teams at HackCSB Hackathon
+* **Participant:** ACM ICPC Dhaka Regionals
 
-Thanks for visiting my profile 🙌
+---
+
+### 🤝 Leadership & Organizational Experience
+
+* **Joint Secretary**, IUT Computer Society (Dec 2025 – Present)
+    * Organized technical workshops, coding events, and seminars.
+* **General Secretary**, Notre Dame Science Club (May 2022 – May 2023)
+    * Led administrative operations and execution of science fairs and competitions.
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** [abrarhasan2003@gmail.com](mailto:abrarhasan2003@gmail.com)
+* **LinkedIn:** [Abrar Mahmud Hasan](https://www.linkedin.com/in/abrar-mahmud-hasan-75a630222/)
