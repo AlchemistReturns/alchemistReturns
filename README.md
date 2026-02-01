@@ -1,34 +1,60 @@
-# 👋 Hi, I'm Abrar Mahmud Hasan
+# Abrar Mahmud Hasan
 
-I am a **Computer Science student** with a strong problem-solving mindset and hands-on experience in developing **AI-powered full-stack applications**. I have contributed to production-grade ERP and web systems and am currently transitioning toward **AI engineering** with a solid foundation in Python, machine learning, and real-world software development.
+Computer Science student and software engineer focused on building **reliable, distributed, and AI-assisted systems**. I work across backend, infrastructure, and data-driven components, with particular interest in **fault tolerance, asynchronous communication, and observability in real-world systems**.
 
----
-
-### 🚀 Technical Skills
-
-* **Languages:** Java, Python, C#, C++, JavaScript, SQL, HTML/CSS
-* **Frameworks & Tools:** React, React-Native, Next.JS, Spring Boot, Django, MongoDB, Rest API, Git, Docker, Firebase
-* **Data Science & ML:** Supervised Learning (Linear/Logistic Regression, Decision Trees, k-NN, SVM), Unsupervised Learning (k-Means, Hierarchical Clustering)
-* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
+My work emphasizes designing systems that continue operating under partial failure rather than failing fast or globally.
 
 ---
 
-### 🛠️ Featured Projects
+## Technical Focus
 
+- Designing **microservice-based architectures** with clear service boundaries  
+- Implementing **asynchronous, event-driven workflows** for resilience  
+- Reasoning about **timeouts, retries, idempotency, and failure modes**  
+- Applying **monitoring and observability** to understand system behavior  
+- Building AI-enabled applications with practical, production-oriented constraints  
+
+---
+
+## Technical Skills
+
+**Languages**  
+Java, Python, JavaScript, C#, C++, SQL  
+
+**Frameworks & Tools**  
+Spring Boot, Django, React, React Native, Next.js, Node.js, Docker, Kubernetes, RabbitMQ, Git, Firebase  
+
+**Distributed Systems & DevOps**  
+Microservices, Asynchronous Messaging, REST APIs, JWT Authentication, Prometheus, Grafana  
+
+**Machine Learning & Data**  
+Supervised Learning (Linear/Logistic Regression, Decision Trees, k-NN, SVM)  
+Unsupervised Learning (k-Means, Hierarchical Clustering)  
+Scikit-learn, Pandas, NumPy, Matplotlib  
+
+---
+
+### Featured Projects
+
+* **Valerix – Resilient Microservices E-Commerce Platform**  
+   *Hackathon Finalist Project*
+   - Designed and implemented a **resilient, fault-tolerant microservices architecture** to demonstrate real-world distributed system behavior.
+   - Simulates a simplified **e-commerce workflow (Order → Inventory)** with independently deployable services.
+   - Implemented **latency injection** and failure simulation to model slow or unresponsive downstream services.
+   - Enforced strict **timeout handling** with automatic fallback from synchronous HTTP calls to **asynchronous message-based processing**.
+   - Used **RabbitMQ** to decouple services and ensure system continuity under partial failure.
+   - Enabled **graceful degradation**, returning queued responses instead of blocking or failing user requests.
+   - Integrated **real-time visualization and monitoring** to observe service health, latency spikes, and system behavior during failures.
+   - Focused on **observability, resilience, and correctness** rather than ideal-case execution.
 * **CurioKids (React Native + Node + Firebase + AI)**
     * Built an AI-driven learning app for kids with personalized puzzles and gamification.
     * Implemented real-time progress tracking using Firebase Authentication and Firestore.
 * **HealthX (React + Node + Firebase + Gemini)**
     * Hackathon-winning AI-powered application bridging the medical support gap in rural regions of Bangladesh.
-* **Ecommerce Backend (Spring Boot + SQL)**
-    * Developed a secure backend with JWT-based authentication and RESTful APIs.
-    * Utilized a layered architecture with input validation.
-* **Predictive Modeling for Agriculture (Python & Scikit-learn)**
-    * Developed a supervised ML model to identify the most predictive soil attributes for crop-type classification.
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **Junior Software Engineer | Shahrish Engineering & Construction Limited**
 *December 2024 – September 2025*
@@ -37,33 +63,18 @@ I am a **Computer Science student** with a strong problem-solving mindset and ha
 
 ---
 
-### 🎓 Education
-
-* **B.Sc. in Computer Science & Engineering** | Islamic University of Technology
-    * CGPA: 3.80/4.00 | Expected Graduation: August 2027
-* **Higher Secondary Certificate** | Notre Dame College, Dhaka
-    * GPA: 5.00/5.00
-
----
-
-### 🏆 Awards & Achievements
+### Awards & Achievements
 
 * **1st Runner-up:** Future Builders 2025 AI Driven Cognitive Innovation Hackathon
 * **Finalist:** Top 7 out of 116 Teams at HackCSB Hackathon
+* **Finalist:** Devops & Microservices Hackathon, BUET CSE Fest 2026
 * **Participant:** ACM ICPC Dhaka Regionals
 
 ---
 
-### 🤝 Leadership & Organizational Experience
+### Leadership & Organizational Experience
 
 * **Joint Secretary**, IUT Computer Society (Dec 2025 – Present)
     * Organized technical workshops, coding events, and seminars.
 * **General Secretary**, Notre Dame Science Club (May 2022 – May 2023)
     * Led administrative operations and execution of science fairs and competitions.
-
----
-
-### 📫 Connect with Me
-
-* **Email:** [abrarhasan2003@gmail.com](mailto:abrarhasan2003@gmail.com)
-* **LinkedIn:** [Abrar Mahmud Hasan](https://www.linkedin.com/in/abrar-mahmud-hasan-75a630222/)
