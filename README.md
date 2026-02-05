@@ -19,13 +19,13 @@ My work emphasizes designing systems that continue operating under partial failu
 ## Technical Skills
 
 **Languages**  
-Java, Python, JavaScript, C#, C++, SQL  
+Golang, Java, Python, JavaScript, C#, C++, SQL  
 
 **Frameworks & Tools**  
-Spring Boot, Django, React, React Native, Next.js, Node.js, Docker, Kubernetes, RabbitMQ, Git, Firebase  
+Gin, Spring Boot, Django, React, React Native, Next.js, Node.js, Firebase  
 
 **Distributed Systems & DevOps**  
-Microservices, Asynchronous Messaging, REST APIs, JWT Authentication, Prometheus, Grafana  
+Microservices, Asynchronous Messaging, Docker, Kubernetes, RabbitMQ, Git, Prometheus, Grafana  
 
 **Machine Learning & Data**  
 Supervised Learning (Linear/Logistic Regression, Decision Trees, k-NN, SVM)  
@@ -37,7 +37,7 @@ Scikit-learn, Pandas, NumPy, Matplotlib
 ### Featured Projects
 
 * **Valerix – Resilient Microservices E-Commerce Platform**  
-   *Hackathon Finalist Project*
+   *Hackathon Winning Project*
    - Designed and implemented a **resilient, fault-tolerant microservices architecture** to demonstrate real-world distributed system behavior.
    - Simulates a simplified **e-commerce workflow (Order → Inventory)** with independently deployable services.
    - Implemented **latency injection** and failure simulation to model slow or unresponsive downstream services.
@@ -65,9 +65,9 @@ Scikit-learn, Pandas, NumPy, Matplotlib
 
 ### Awards & Achievements
 
+* **Champion:** Microservice & DevOps Hackathon, BUET CSE Fest 2026
 * **1st Runner-up:** Future Builders 2025 AI Driven Cognitive Innovation Hackathon
 * **Finalist:** Top 7 out of 116 Teams at HackCSB Hackathon
-* **Finalist:** Devops & Microservices Hackathon, BUET CSE Fest 2026
 * **Participant:** ACM ICPC Dhaka Regionals
 
 ---
