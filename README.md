@@ -56,12 +56,12 @@ Scikit-learn, Pandas, NumPy, Matplotlib
 
 ### Professional Experience
 
-**Software Engineering Intern | Intelsense AI**
+**Software Engineering Intern | Intelsense AI**  
 *January 2026 – Present*
 * Contributing as a core team member to Unisense - A multi agent system enabling enterprises to know their customers better
 * Designed dashboards and interfaces that meet business requirements
 
-**Junior Software Engineer | Shahrish Engineering & Construction Limited**
+**Junior Software Engineer | Shahrish Engineering & Construction Limited**  
 *December 2024 – September 2025*
 * Designed production-grade web and ERP solutions using React, Tailwind CSS, and Django.
 * Developed internal supply-chain modules that reduced manual data handling by 90%.
