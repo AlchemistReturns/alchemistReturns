@@ -1,85 +1,61 @@
 # Abrar Mahmud Hasan
 
-Computer Science student and software engineer focused on building **reliable, distributed, and AI-assisted systems**. I work across backend, infrastructure, and data-driven components, with particular interest in **fault tolerance, asynchronous communication, and observability in real-world systems**.
-
-My work emphasizes designing systems that continue operating under partial failure rather than failing fast or globally.
+**AI Engineer & Software Engineer** | Focused on building **intelligent, resilient, and distributed systems**. I specialize in bridging the gap between robust backend infrastructure and **agentic AI workflows**.
 
 ---
 
-## Technical Focus
-
-- Designing **microservice-based architectures** with clear service boundaries  
-- Implementing **asynchronous, event-driven workflows** for resilience  
-- Reasoning about **timeouts, retries, idempotency, and failure modes**  
-- Applying **monitoring and observability** to understand system behavior  
-- Building AI-enabled applications with practical, production-oriented constraints  
+### Professional Summary
+I am a Computer Science student at IUT and a software engineer dedicated to designing **AI-assisted systems** that are as reliable as they are intelligent. My expertise lies in building **agentic workflows**, **multi-agent orchestration**, and **fault-tolerant microservices**. I believe AI should be a core component of production-grade, observable infrastructure, not just an add-on.
 
 ---
 
-## Technical Skills
+### Technical Toolkit
 
-**Languages**  
-Golang, Java, Python, JavaScript, C#, C++, SQL  
-
-**Frameworks & Tools**  
-Gin, Spring Boot, Django, React, React Native, Next.js, Node.js, Firebase  
-
-**Distributed Systems & DevOps**  
-Microservices, Asynchronous Messaging, Docker, Kubernetes, RabbitMQ, Git, Prometheus, Grafana  
-
-**Machine Learning & Data**  
-Supervised Learning (Linear/Logistic Regression, Decision Trees, k-NN, SVM)  
-Unsupervised Learning (k-Means, Hierarchical Clustering)  
-Scikit-learn, Pandas, NumPy, Matplotlib  
+| Category | Technologies |
+| :--- | :--- |
+| **AI & Agentic Systems** | **LangChain, CrewAI, Multi-agent Architectures**, OpenAI/Gemini APIs, Scikit-learn, Pandas |
+| **Backend & Infrastructure** | **Go (Concurrency & Distributed Systems)**, Python, Java, Node.js, **Docker, Kubernetes, RabbitMQ** |
+| **Observability** | Prometheus, Grafana, OpenTelemetry |
+| **Full Stack** | React, Next.js, React Native, Tailwind CSS, Django, Spring Boot |
 
 ---
 
 ### Featured Projects
 
-* **Valerix – Resilient Microservices E-Commerce Platform**  
-   *Hackathon Winning Project*
-   - Designed and implemented a **resilient, fault-tolerant microservices architecture** to demonstrate real-world distributed system behavior.
-   - Simulates a simplified **e-commerce workflow (Order → Inventory)** with independently deployable services.
-   - Implemented **latency injection** and failure simulation to model slow or unresponsive downstream services.
-   - Enforced strict **timeout handling** with automatic fallback from synchronous HTTP calls to **asynchronous message-based processing**.
-   - Used **RabbitMQ** to decouple services and ensure system continuity under partial failure.
-   - Enabled **graceful degradation**, returning queued responses instead of blocking or failing user requests.
-   - Integrated **real-time visualization and monitoring** to observe service health, latency spikes, and system behavior during failures.
-   - Focused on **observability, resilience, and correctness** rather than ideal-case execution.
-* **CurioKids (React Native + Node + Firebase + AI)**
-    * Built an AI-driven learning app for kids with personalized puzzles and gamification.
-    * Implemented real-time progress tracking using Firebase Authentication and Firestore.
-* **HealthX (React + Node + Firebase + Gemini)**
-    * Hackathon-winning AI-powered application bridging the medical support gap in rural regions of Bangladesh.
+* **Valerix – Resilient Microservices Platform** (Champion: BUET CSE Fest 2026)
+    * Designed a **fault-tolerant architecture** using **Go and RabbitMQ** to demonstrate graceful degradation.
+    * Implemented **latency injection** and automated fallbacks from synchronous HTTP to **asynchronous processing**.
+    * Focused on **observability** and system correctness under partial failure.
+
+* **CurioKids (React Native + Node + AI)**
+    * Built an AI-driven learning platform with personalized puzzles and real-time progress tracking.
+
+* **HealthX (React + Node + Gemini)** (1st Runner-up: Future Builders AI Hackathon)
+    * Developed an AI-powered application bridging medical support gaps in rural Bangladesh.
 
 ---
 
 ### Professional Experience
 
-**Software Engineering Intern | Intelsense AI**  
-*February 2026 – Present*
-* Contributing as a core team member to Unisense - A multi agent system enabling enterprises to know their customers better
-* Designed dashboards and interfaces that meet business requirements
+**Software Engineering Intern | Intelsense AI** *February 2026 – Present* * Core team member for **Unisense**, a **multi-agent system** enabling enterprise-level customer intelligence.
+* Designing dashboards and agentic interfaces that translate complex data into business requirements.
 
-**Junior Software Engineer | Shahrish Engineering & Construction Limited**  
-*December 2024 – September 2025*
-* Designed production-grade web and ERP solutions using React, Tailwind CSS, and Django.
-* Developed internal supply-chain modules that reduced manual data handling by 90%.
+**Junior Software Engineer | Shahrish Engineering & Construction Limited** *December 2024 – September 2025* * Developed production-grade ERP modules using **React and Django**.
+* Reduced manual workflows by **90%** through automated supply-chain solutions.
 
 ---
 
-### Awards & Achievements
+### Achievements & Leadership
 
 * **Champion:** Microservice & DevOps Hackathon, BUET CSE Fest 2026
 * **1st Runner-up:** Future Builders 2025 AI Driven Cognitive Innovation Hackathon
-* **Finalist:** Top 7 out of 116 Teams at HackCSB Hackathon
-* **Participant:** ACM ICPC Dhaka Regionals
+* **Regionalist:** ACM ICPC Dhaka Regionals
+* **Joint Secretary:** IUT Computer Society (Organizing technical workshops and seminars)
+* **General Secretary (Former):** Notre Dame Science Club 
 
 ---
 
-### Leadership & Organizational Experience
-
-* **Joint Secretary**, IUT Computer Society (Dec 2025 – Present)
-    * Organized technical workshops, coding events, and seminars.
-* **General Secretary**, Notre Dame Science Club (May 2022 – May 2023)
-    * Led administrative operations and execution of science fairs and competitions.
+### Beyond Code
+* Currently building a web-based community for **History** enthusiasts.
+* Avid reader of **thrillers and detective novels**.
+* Video game explorer and traveler.
