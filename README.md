@@ -37,10 +37,12 @@ I am a Computer Science student at IUT and a software engineer dedicated to desi
 
 ### Professional Experience
 
-**Software Engineering Intern | Intelsense AI** *February 2026 – Present* * Core team member for **Unisense**, a **multi-agent system** enabling enterprise-level customer intelligence.
+**Software Engineering Intern | Intelsense AI** *February 2026 – Present* 
+* Core team member for **Unisense**, a **multi-agent system** enabling enterprise-level customer intelligence.
 * Designing dashboards and agentic interfaces that translate complex data into business requirements.
 
-**Junior Software Engineer | Shahrish Engineering & Construction Limited** *December 2024 – September 2025* * Developed production-grade ERP modules using **React and Django**.
+**Junior Software Engineer | Shahrish Engineering & Construction Limited** *December 2024 – September 2025* 
+* Developed production-grade ERP modules using **React and Django**.
 * Reduced manual workflows by **90%** through automated supply-chain solutions.
 
 ---
