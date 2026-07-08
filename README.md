@@ -37,7 +37,7 @@ I am a Computer Science student at IUT and a software engineer dedicated to desi
 
 ### Professional Experience
 
-**Software Engineering Intern | Intelsense AI** *February 2026 – Present* 
+**Software Engineering Intern | Intelsense AI** *January 2026 – April 2026* 
 * Core team member for **Unisense**, a **multi-agent system** enabling enterprise-level customer intelligence.
 * Designing dashboards and agentic interfaces that translate complex data into business requirements.
 
