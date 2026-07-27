@@ -1,11 +1,6 @@
 # Abrar Mahmud Hasan
 
-**AI Engineer & Software Engineer** | Focused on building **intelligent, resilient, and distributed systems**. I specialize in bridging the gap between robust backend infrastructure and **agentic AI workflows**.
-
----
-
-### Professional Summary
-I am a Computer Science student at IUT and a software engineer dedicated to designing **AI-assisted systems** that are as reliable as they are intelligent. My expertise lies in building **agentic workflows**, **multi-agent orchestration**, and **fault-tolerant microservices**. I believe AI should be a core component of production-grade, observable infrastructure, not just an add-on.
+**Software Engineer** | Experienced in building **production-grade systems with integrated AI workflows**.
 
 ---
 
@@ -13,25 +8,31 @@ I am a Computer Science student at IUT and a software engineer dedicated to desi
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI & Agentic Systems** | **LangChain, CrewAI, Multi-agent Architectures**, OpenAI/Gemini APIs, Scikit-learn, Pandas |
-| **Backend & Infrastructure** | **Go (Concurrency & Distributed Systems)**, Python, Java, Node.js, **Docker, Kubernetes, RabbitMQ** |
+| **AI & Agentic Systems** | **LangGraph, OpenAI Agents SDK**, Multi-agent Architectures |
+| **Backend & Infrastructure** | **Go, Python**, Java, Javascript, **Docker, Kubernetes, RabbitMQ** |
 | **Observability** | Prometheus, Grafana, OpenTelemetry |
-| **Full Stack** | React, Next.js, React Native, Tailwind CSS, Django, Spring Boot |
+| **Full Stack** | React, Next.js, React Native, FastAPI, Spring Boot |
 
 ---
 
 ### Featured Projects
 
-* **Valerix – Resilient Microservices Platform** (Champion: BUET CSE Fest 2026)
-    * Designed a **fault-tolerant architecture** using **Go and RabbitMQ** to demonstrate graceful degradation.
-    * Implemented **latency injection** and automated fallbacks from synchronous HTTP to **asynchronous processing**.
-    * Focused on **observability** and system correctness under partial failure.
+* **Grit (Golang)** (Noverse Inc. presents Friction Hackathon)
+    * Command Line based developer logging tool
+    * Turns commits into a knowledge base on disk
+    * Provides context-aware prompts, a real-time watch, decision records, stats, and export functionality
+ 
+* **Valerix** (Champion: BUET CSE Fest 2026 Hackathon)
+    * Kubernetes-orchestrated microservices platform
+    * Implemented service resilience, controlled failures, and production style cloud deployment using Docker and AWS EKS.
 
-* **CurioKids (React Native + Node + AI)**
-    * Built an AI-driven learning platform with personalized puzzles and real-time progress tracking.
+* **CurioKids (React Native + NodeJS + AI)**
+    * AI-driven learning platform with personalized puzzles and real-time progress tracking.
+    * Demonstrates Real-time communication, AI integration and RAG
 
-* **HealthX (React + Node + Gemini)** (1st Runner-up: Future Builders AI Hackathon)
-    * Developed an AI-powered application bridging medical support gaps in rural Bangladesh.
+* **HealthX (React + NodeJS + Gemini)** (1st Runner-up: Future Builders AI Hackathon)
+    * AI-powered application targeting medical support gaps in rural Bangladesh.
+    * Demonstrates strong backend fundamentals, understanding of UI, and AI-assisted development skills
 
 ---
 
@@ -52,12 +53,5 @@ I am a Computer Science student at IUT and a software engineer dedicated to desi
 * **Champion:** Microservice & DevOps Hackathon, BUET CSE Fest 2026
 * **1st Runner-up:** Future Builders 2025 AI Driven Cognitive Innovation Hackathon
 * **Regionalist:** ACM ICPC Dhaka Regionals
-* **Joint Secretary:** IUT Computer Society (Organizing technical workshops and seminars)
-* **General Secretary (Former):** Notre Dame Science Club 
-
----
-
-### Beyond Code
-* Currently building a web-based community for **History** enthusiasts.
-* Avid reader of **thrillers and detective novels**.
-* Video game explorer and traveler.
+* **Former Joint Secretary:** IUT Computer Society (Organizing technical workshops and seminars)
+* **Former General Secretary:** Notre Dame Science Club 
