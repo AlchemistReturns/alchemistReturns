@@ -16,7 +16,6 @@ Currently focused on Multi-Agent Systems, AI Infrastructure and Production ML
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=AlchemistReturns&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
-<img height="165em" src="https://github-readme-stats-rho-lyart-71.vercel.app/api/top-langs/?username=AlchemistReturns&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9" />
 
 </div>
 
@@ -207,8 +206,6 @@ Currently focused on Multi-Agent Systems, AI Infrastructure and Production ML
 </details>
 
 # Technical Toolkit
-
-**AI & Agentic Systems**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
