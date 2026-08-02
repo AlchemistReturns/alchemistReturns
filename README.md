@@ -3,13 +3,25 @@
 # Abrar Mahmud Hasan
 ### Computer Science Undergraduate • Software Engineer • AI Systems Builder
 
-Building production-grade, fault-tolerant AI systems with a focus on functionality, reliability and cost-efficiency.
+Currently focused on Multi-Agent Systems, AI Infrastructure and Production ML
 
 [![Resume](https://img.shields.io/badge/View-Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Wvb6U7F29JNNOmgnnMHMfaOYNuVp3lYQ/view?usp=drive_link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrar-mahmud-hasan-75a630222/)
-[![GitHub Followers](https://img.shields.io/github/followers/AlchemistReturns?style=for-the-badge)](https://github.com/AlchemistReturns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrar-mahmud-hasan-75a630222/)
+[![GitHub Followers](https://img.shields.io/github/followers/AlchemistReturns?style=for-the-badge&color=0A66C2&labelColor=black)](https://github.com/AlchemistReturns)
 
 </div>
+
+---
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-rho-lyart-71.vercel.app/api?username=AlchemistReturns&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats-rho-lyart-71.vercel.app/api/top-langs/?username=AlchemistReturns&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=AlchemistReturns&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
+
+</div>
+
+---
 
 # Featured Projects
 
@@ -195,29 +207,33 @@ Building production-grade, fault-tolerant AI systems with a focus on functionali
 ```
 </details>
 
-
-
 # Technical Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **AI & Agentic Systems** | LangGraph, Model Fine-tuning, Multi-agent Architectures, RAG |
-| **Full-stack** | FastAPI, Gin, Django, Spring Boot, Next.js, SQL, NoSQL |
-| **Infra & Observability** | Docker, Kubernetes, Prometheus, Grafana, LangSmith |
+**AI & Agentic Systems**
 
-# Current Focus
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent%20Systems-4B5563?style=for-the-badge&logo=robotframework&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge&logo=databricks&logoColor=white)
+![Fine--tuning](https://img.shields.io/badge/Model%20Fine--tuning-4B5563?style=for-the-badge&logo=pytorch&logoColor=white)
 
-- Multi-Agent Systems
-- AI Infrastructure
-- Production ML
-- Distributed Systems
-- Fault-Tolerant Backend Engineering
-- Observability
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 <div align="center">
 
-*"Design systems that continue working when everything else starts failing."*
+*"Intelligence is the system. I build what holds it up."*
 
 </div>
