@@ -23,6 +23,82 @@ Currently focused on Multi-Agent Systems, AI Infrastructure and Production ML
 
 # Featured Projects
 
+<details>
+<summary><strong>Sentinel</strong> — Multi Agent AI code auditor</summary>
+
+> AI engineer that audits codebases with multi-agent LangGraph orchestration and opens validated, human-reviewed fix PRs — never auto-merges
+
+**Repository:** [https://github.com/AlchemistReturns/Sentinel](https://github.com/AlchemistReturns/Sentinel)
+
+### Highlights
+
+- Built a multi-agent LangGraph system (Security, Quality, Test analysts) that audits codebases in parallel, grounded in real tool output (semgrep, pip-audit) rather than LLM pattern-matching.
+- Implemented a diagnose-propose-validate-PR pipeline: findings get deterministic risk tiers, fixes are validated via lint/test regression checks before opening GitHub PRs, with risky changes forced to draft for human review.
+- Hardened for production with a Redis-backed task queue, distributed locking to prevent concurrent duplicate fixes, per-audit spend caps, and a kill switch — all verified under real concurrent load.
+  
+### Architecture
+```text
+                        +------------------------+
+                        |   Next.js Dashboard    |
+                        +-----------+------------+
+                                    |
+                          HTTPS / WebSocket
+                                    |
+                        +-----------v------------+
+                        | FastAPI Orchestrator    |
+                        | (REST + WebSocket)      |
+                        +-----------+------------+
+                                    |
+                        +-----------v------------+
+                        | LangGraph Audit Graph   |
+                        +-----------+------------+
+                                    |
+                        +-----------v------------+
+                        |   Ingest / Scope        |
+                        +-----------+------------+
+                                    |
+          +-------------------------+-------------------------+
+          |                         |                         |
++---------v--------+     +----------v---------+     +---------v---------+
+| Security Analyst  |     | Quality Analyst    |     | Test Analyst       |
+| (semgrep,pip-audit)|     | (dead code)        |     | (coverage gaps)    |
++---------+--------+     +----------+---------+     +---------+---------+
+          |                         |                         |
+          +-------------------------+-------------------------+
+                                    |
+                        +-----------v------------+
+                        | Diagnose (risk tier,   |
+                        | dedup via semantic cache)|
+                        +-----------+------------+
+                                    |
+                        +-----------v------------+
+                        | Propose Fix (LLM)      |
+                        +-----------+------------+
+                                    |
+                        +-----------v------------+
+                        | Validate (ruff+pytest) |
+                        +-----------+------------+
+                                    |
+                        +-----------v------------+
+                        | Open PR (GitHub API)   |
+                        | draft if risky          |
+                        +------------------------+
+
+        +---------------------+       +----------------------+
+        | Postgres + pgvector |<----->| LangGraph Checkpointer|
+        +---------------------+       +----------------------+
+
+        +---------------------+
+        | Redis: queue, cache,|
+        | lock, kill switch,  |
+        | spend budgets       |
+        +---------------------+
+
+        +---------------------+       +----------------------+
+        | OpenAI (LLM calls)  |       | LangSmith (tracing)  |
+        +---------------------+       +----------------------+
+```
+</details>
 
 
 <details>
