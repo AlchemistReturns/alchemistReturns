@@ -15,7 +15,7 @@ Currently focused on Multi-Agent Systems, AI Infrastructure and Production ML
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AlchemistReturns&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
+[![Abrar's GitHub stats](https://github-stats-extended.vercel.app/api?username=alchemistreturns)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
